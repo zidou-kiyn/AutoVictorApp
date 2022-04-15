@@ -1,4 +1,4 @@
-# AutoVictorApp
+# AutoVictorApp（程序未上传完整 还没学会git 需要联系QQ3038771237）
 
 1. 主程序:VictorApp.py(运行它即可)
 
